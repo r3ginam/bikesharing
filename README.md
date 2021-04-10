@@ -50,3 +50,5 @@ This shows that males and females have similar bike rental patterns throughout t
 
 
 ## Summary
+
+In conclusion, it's possible that a bike sharing program in Des Moines could be a profitable and sustainable business, but there are too many unknowns to invest based on this analysis alone. In the future to further understand the market, analysis needs to be done on the cost of manufacturing the bikes, installing the bike stations, and the concentration of pedestrain traffic in Des Moines. 
